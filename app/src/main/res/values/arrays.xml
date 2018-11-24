@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sort_options">
+        <item>Now Playing</item>
+        <item>Popular</item>
+        <item>Top Rated</item>
+        <item>Upcoming</item>
+        <item>Favorites</item>
+    </string-array>
+
+    <string-array name="sort_options_values">
+        <item>now_playing</item>
+        <item>popular</item>
+        <item>top_rated</item>
+        <item>upcoming</item>
+        <item>favorites</item>
+    </string-array>
+
+
+
+
+</resources>

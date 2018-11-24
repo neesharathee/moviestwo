@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">moviestwo</string>
+
+    <string name="content_authority">com.example.android.moviestwo</string>
+
+    <string name="action_sort">Sort</string>
+    <string name="error_message">Cannot load list of movies. If you have Favorites saved locally, you may switch to Favorites view to view them offline.</string>
+
+    <string name="pref_sort_label">Options</string>
+    <string name="pref_sort_key">sort</string>
+    <string name="pref_sort_default">top_rated</string>
+
+    <string name="tmdblogo">Logo - Powered by The Movie DB tmdb.org</string>
+    <string name="movie_grid_poster_desc">Poster for movie in grid view</string>
+    <string name="movie_detail_poster_desc">Poster for movie in detail view</string>
+    <string name="video_thumb_desc">Thumbnail for trailer videos</string>
+    <string name="header_for_reviews_section">Reviews</string>
+    <string name="header_for_videos_section">Videos</string>
+    <string name="open_with">Open With</string>
+    <string name="no_videos_error">No Videos in Database</string>
+    <string name="no_reviews_error">No Reviews Found</string>
+    <string name="no_reviews_db_error">No Reviews in Database</string>
+    <string name="ratings_message_prefix">Rating: </string>
+    <string name="no_favorites_indb_message">No Favorties in Database</string>
+    <string name="no_favs_placeholder_message">Use another sortlist and \'star\' a favorite movie from its Details Screen</string>
+
+    <string name="TITLE">TITLE</string>
+    <string name="POSTERURL">POSTERURL</string>
+    <string name="SYNOPSIS">SYNOPSIS</string>
+    <string name="RATING">RATING</string>
+
+</resources>

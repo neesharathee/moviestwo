@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="movie_tile_width">135dp</dimen>
+    <dimen name="movie_tile_height">245dp</dimen>
+    <dimen name="movie_poster_height">205dp</dimen>
+    <dimen name="movie_title_height">40dp</dimen>
+    <dimen name="movie_detail_poster_width">200dp</dimen>
+    <dimen name="movie_detail_poster_height">304dp</dimen>
+    <dimen name="video_thumbnail_height">150dp</dimen>
+    <dimen name="logo_height">40dp</dimen>
+    <dimen name="logo_width">102dp</dimen>
+
+</resources>
